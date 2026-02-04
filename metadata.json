@@ -1,0 +1,7 @@
+{
+  "name": "High-Goal Consulting - Global Expansion Portal",
+  "description": "A comprehensive platform for Chinese manufacturers to assess and plan their entry into the North American market, featuring AI-driven tools, expert assessments, and market reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
